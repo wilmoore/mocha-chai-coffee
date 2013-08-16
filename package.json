@@ -1,0 +1,37 @@
+{
+  "name": "mocha-chai-coffee",
+  "description": "Mocha and Chai CoffeeScript Unit Testing Example",
+  "version": "0.1.0",
+  "homepage": "https://github.com/wilmoore/mocha-chai-coffee",
+  "author": {
+    "name": "Wil Moore III",
+    "email": "wil.moore@wilmoore.com",
+    "url": "http://github.com/wilmoore"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wilmoore/mocha-chai-coffee.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wilmoore/mocha-chai-coffee/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/wilmoore/mocha-chai-coffee/blob/master/LICENSE"
+    }
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.6.3",
+    "chai": "~1.7.2",
+    "mocha": "~1.12.0"
+  },
+  "keywords": []
+}
