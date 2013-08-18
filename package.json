@@ -1,6 +1,6 @@
 {
   "name": "mocha-chai-coffee",
-  "description": "Mocha and Chai CoffeeScript Unit Testing Example",
+  "description": "Minimal Node.js module example with production code written in pure JavaScript and unit tests written in CoffeeScript. Tests written against the Mocha and Chai libraries. Continuous integration via Travis.",
   "version": "0.1.0",
   "homepage": "https://github.com/wilmoore/mocha-chai-coffee",
   "author": {

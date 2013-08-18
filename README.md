@@ -1,7 +1,7 @@
 # mocha-chai-coffee
 
 [![Build
-Status](https://travis-ci.org/wilmoore/stbstatus.png?branch=master)](https://travis-ci.org/wilmoore/stbstatus)
+Status](https://travis-ci.org/wilmoore/mocha-chai-coffee.png?branch=master)](https://travis-ci.org/wilmoore/mocha-chai-coffee)
 [![Build
 Status](https://david-dm.org/wilmoore/mocha-chai-coffee.png)](https://david-dm.org/wilmoore/mocha-chai-coffee)
 [![NPM
