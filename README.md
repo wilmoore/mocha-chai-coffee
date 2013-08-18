@@ -17,7 +17,7 @@ Minimal [Node.js][] module example with production code written in pure JavaScri
 % git clone https://github.com/wilmoore/mocha-chai-coffee.git
 % cd mocha-chai-coffee
 % rm -rf .git
-% make test
+% make test REPORTER=spec
 ```
 
 ## License
