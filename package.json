@@ -30,7 +30,6 @@
   },
   "devDependencies": {
     "coffee-script": "*",
-    "sinon": "*",
     "chai": "*",
     "mocha": "*"
   },
