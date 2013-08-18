@@ -14,6 +14,7 @@ Minimal example of unit testing a Node.JS module with Mocha, Chai, and CoffeeScr
 ```
 % git clone https://github.com/wilmoore/mocha-chai-coffee.git
 % cd mocha-chai-coffee
+% rm -rf .git
 % make test
 ```
 

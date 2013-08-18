@@ -29,9 +29,10 @@
     "test": "make test"
   },
   "devDependencies": {
-    "coffee-script": "~1.6.3",
-    "chai": "~1.7.2",
-    "mocha": "~1.12.0"
+    "coffee-script": "*",
+    "sinon": "*",
+    "chai": "*",
+    "mocha": "*"
   },
   "keywords": []
 }
