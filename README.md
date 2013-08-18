@@ -9,6 +9,10 @@ version](https://badge.fury.io/js/mocha-chai-coffee.png)](http://badge.fury.io/j
 
 Minimal example of unit testing a Node.JS module with Mocha, Chai, and CoffeeScript. Tests are written in CoffeeScript, the module is Pure JavaScript.
 
+## Screenshot
+
+![make test --REPORTER=spec](https://dsz91cxz97a03.cloudfront.net/dRKwnU1nV2-1200x1200.png)
+
 ## Usage
 
 ```
