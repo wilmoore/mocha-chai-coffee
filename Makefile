@@ -1,4 +1,4 @@
-REPORTER = dot
+REPORTER = spec
 COMPILER = coffee:coffee-script
 
 test: node_modules
