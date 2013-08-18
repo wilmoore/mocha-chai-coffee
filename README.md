@@ -4,8 +4,6 @@
 Status](https://travis-ci.org/wilmoore/mocha-chai-coffee.png?branch=master)](https://travis-ci.org/wilmoore/mocha-chai-coffee)
 [![Build
 Status](https://david-dm.org/wilmoore/mocha-chai-coffee.png)](https://david-dm.org/wilmoore/mocha-chai-coffee)
-[![NPM
-version](https://badge.fury.io/js/mocha-chai-coffee.png)](http://badge.fury.io/js/mocha-chai-coffee)
 
 Minimal [Node.js][] module example with production code written in pure JavaScript and unit tests written in [CoffeeScript][]. Tests written against the [Mocha][] and [Chai][] libraries. Continuous integration via [Travis][].
 
