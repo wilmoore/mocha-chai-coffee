@@ -1,5 +1,5 @@
 main   = require('..');
-assert = require('chai').expect
+assert = require('chai').assert
 
 describe 'testing', ->
 
