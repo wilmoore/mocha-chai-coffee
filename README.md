@@ -36,7 +36,7 @@ MIT
 
 
 [Chai]: http://chaijs.com
-[Mocha]: http://visionmedia.github.io/mocha
+[Mocha]: http://mochajs.org/
 [Travis]: https://travis-ci.org/wilmoore/mocha-chai-coffee
 [Node.js]: http://nodejs.org
 [CoffeeScript]: http://coffeescript.org
